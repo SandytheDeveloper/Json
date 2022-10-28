@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "img" : "bloodshot",
+      "name": "Sandeep",
+      "age" : "21"
+    },
+    {
+      "img" : "dd",
+      "name" : "Rahul",
+      "age" : "20"
+    },
+    {
+      "img" : "supergirl",
+      "name" : "Manan",
+      "age" : "22"
+    },
+    {
+      "img" : "alita",
+      "name" : "Sagar",
+      "age" : "22"
+    },
+    {
+      "img" : "sooryavanshi",
+      "name" : "Bhargav",
+      "age" : "22"
+    }
+  ]
+}
